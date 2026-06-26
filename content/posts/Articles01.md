@@ -5,7 +5,7 @@ lastmod: 2026-06-26T16:45:06+08:00
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cover.jpg
+# cover: /img/cover.jpg
 # covercaption: a description of the cover image
 # images:
 #   - /img/cover.jpg
