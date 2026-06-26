@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>闲谈 on My New Hugo Project</title>
+		<title>闲谈 on 我的博客系统=测试</title>
 		<link>http://localhost:1313/categories/%E9%97%B2%E8%B0%88/</link>
-		<description>Recent content in 闲谈 on My New Hugo Project</description>
+		<description>Recent content in 闲谈 on 我的博客系统=测试</description>
 		<generator>Hugo</generator>
-		<language>en-us</language>
+		<language>zh-cn</language>
 		
 		
 		

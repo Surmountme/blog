@@ -1,4 +1,7 @@
 baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+locale = 'zh-cn'
+title = '我的博客系统=测试'
 theme = 'Dream'
+
+[pagination]
+pagerSize = 10
