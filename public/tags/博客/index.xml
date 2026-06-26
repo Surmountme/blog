@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>博客 on My New Hugo Project</title>
+		<link>http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/</link>
+		<description>Recent content in 博客 on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 26 Jun 2026 17:13:09 +0800</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Articles02</title>
+				<link>http://localhost:1313/posts/articles02/</link>
+				<pubDate>Fri, 26 Jun 2026 17:13:09 +0800</pubDate>
+				<guid>http://localhost:1313/posts/articles02/</guid>
+				<description>&lt;h1 id=&#34;测试标题&#34;&gt;测试标题&lt;/h1&gt;&#xA;&lt;p&gt;    这是我的第二篇文章，仅用于测试&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Articles01</title>
+				<link>http://localhost:1313/posts/articles01/</link>
+				<pubDate>Fri, 26 Jun 2026 16:45:06 +0800</pubDate>
+				<guid>http://localhost:1313/posts/articles01/</guid>
+				<description>&lt;h1 id=&#34;文章标题&#34;&gt;文章标题&lt;/h1&gt;&#xA;&lt;p&gt;    这是我的网站 blog 中的第一篇文章。&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
